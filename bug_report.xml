@@ -1,1 +1,24 @@
-
+<?xml version = "1.0"?>
+<bug-report>
+    <ID>1</ID>
+    <Reporter>Valeriia Lanchinskaia</Reporter>
+    <Severity>tweak</Severity>
+    <Priority>normal</Priority>
+    <Status>accepted</Status>
+    <Product-Build>2.1.1</Product-Build>
+    <Reproducibility>always</Reproducibility>
+    <Platform>Google Chrome 91.0.4472.124</Platform>
+    <OS-Version>10*64 </OS-Version>
+    <OS>Windows</OS>
+    <Summary>The 404 error is displayed in the new browser tab after clicking on the "Микола Палієнко" link in the footer</Summary>
+    <Description>The 404 error is displayed in the new browser tab after clicking on the "Микола Палієнко" link in the footer</Description>
+    <Steps-To-Reproduce>1. Open the site https://prom.ua/ua/ 
+    2. Scroll down the page to the footer.
+    3. Click the "Про prom.ua" link.
+    4. Click the "Микола Палієнко" link.
+    5. Pay attention to the 404 error</Steps-To-Reproduce>
+    <Actual-result>The 404 error is displayed in the new browser tab after clicking on the "Микола Палієнко" link in the footer</Actual-result>
+    <Expected-result>The information about selected person is displayed in the new browser tab after clicking on the "Микола Палієнко" link in the footer</Expected-result>
+    <Additional-Information>Video https://drive.google.com/file/d/1SNhHpTTgxswxR6CtnqGxYQRTIJ0X0Waa/view?usp=drivesdk</Additional-Information>
+    <Attached-Files>https://drive.google.com/file/d/16rH-U0oI1kh_vhvnuM18WsmwPFCctaRx/view?usp=sharing$</Attached-Files>
+</bug-report>
