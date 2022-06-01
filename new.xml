@@ -1,7 +1,7 @@
 <?xml version = "1.0"?>
-<information about me>
+<information-about-me>
     <name>Lanchinskaia Valeriia</name>
     <age>25 years</age>
-    <number of pets>two</number of pets>
-    <future desired salary>2000$</future desired salary>
-</information about me>
+    <number-of-pets>two</number-of-pets>
+    <future-desired-salary>2000$</future-desired-salary>
+</information-about-me>

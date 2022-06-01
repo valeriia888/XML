@@ -1,0 +1,12 @@
+<?xml version = "1.0"?>
+<skils>
+    <skil>Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC</skil>
+    <skil>What is a client-server architecture</skil>
+    <skil>HTTP Methods of requests to the server</skil>
+    <skil>Structures of HTTP requests and responses</skil>
+    <skil>What is JSON, XML. Their structure</skil>
+    <skil>API testing via Postman (JS, API autotests)</skil>
+    <skil>Removing and reading logs from an external server</skil>
+    <skil>Sniffing http web traffic via Charles and Fiddler</skil>
+    <skil>Dev Tools of web browsers (Google Chrome, FireFox)</skil>
+</skils>
