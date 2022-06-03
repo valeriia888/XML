@@ -17,6 +17,6 @@ touch skils.xml && cat >> skils.xml
  33. Отправить сразу 2 файла на внешний репозиторий: git push preferences.xml skils.xml
  34. На веб интерфейсе создать файл bug_report.xml:  add file button
  35. Сделать Commit changes (сохранить) изменения на веб интерфейсе: commite new file 
- 36. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML: edit
+ 36. На веб интерфейсе модифицировать файл bug_report.xml,добавить баг репорт в формате XML: edit
  37. Сделать Commit changes (сохранить) изменения на веб интерфейсе: commite new file
  38. Синхронизировать внешний и локальный репозиторий XML: git pull
